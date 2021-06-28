@@ -1,6 +1,7 @@
 #Arduino (NodeMCU) WİFİ KONTROLLÜ ARABA
 
 https://kirmiziyuz.com/arduino/nodemcu-wifi-kontrollu-araba.html
+
 NodeMCU ve L298N kullanarak wifi kontrollü araç yapımı.
 
 #Malzemeler :

@@ -3,20 +3,22 @@
 https://kirmiziyuz.com/arduino/nodemcu-wifi-kontrollu-araba.html
 NodeMCU ve L298N kullanarak wifi kontrollü araç yapımı.
 
-Malzemeler :
+#Malzemeler :
 
 NodemCU
 L298N motor sürücüsü
 Robot kiti veya oyuncak araba
 jumper kablolar
 nodemcu ve l298n için 2 adet güç kaynağı (pil)
-Devre Şeması
+
+#Devre Şeması
+
 ![image alt text](https://www.kirmiziyuz.com/wp-content/uploads/2021/03/sema.png)
 
 Web Sayfası Görünümü
 ![image alt text](https://www.kirmiziyuz.com/wp-content/uploads/2021/03/web.png)
 
-NodeMCU Programı
+#NodeMCU Programı
 
 ```
 #include <ESP8266WiFi.h>

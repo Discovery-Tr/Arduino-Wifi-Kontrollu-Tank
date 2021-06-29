@@ -13,11 +13,15 @@ nodemcu ve l298n için 2 adet güç kaynağı (pil)
 
 # Devre Şeması
 
-![image alt text](https://www.kirmiziyuz.com/wp-content/uploads/2021/03/sema.png)
+<p align="center">
+  <img src="https://www.kirmiziyuz.com/wp-content/uploads/2021/03/sema.png"/>
+</p>
 
 # Web Sayfası Görünümü
 
-![image alt text](https://www.kirmiziyuz.com/wp-content/uploads/2021/03/web.png)
+<p align="center">
+  <img src="https://www.kirmiziyuz.com/wp-content/uploads/2021/03/web.png"/>
+</p>
 
 # NodeMCU Programı
 
